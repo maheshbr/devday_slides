@@ -1,0 +1,110 @@
+DevOps 101
+
+Raghavendrra Mahesh
+@maheshbr_1008
+
+* What DevOps is not
+
+- Ansible, Chef, Puppet automation
+
+- Only system administration
+
+
+* DevOps Support Flow
+.image ./images/rsz_devops_support_flow.jpg
+
+
+* Issues to resolve
+
+
+* Fear of change
+.image ./images/chickenchange.jpg
+
+* Risky deployments
+.image ./images/tumblr_inline_o3ma2oExPf1raprkq_500.gif
+
+* It works on my machine!!!
+.image ./images/work_my_machine.jpg
+
+* Silos
+.image ./images/silos.jpg
+
+* Wall of confusion
+.image ./images/wall_confusion.jpg
+
+* Throw it over the wall
+.image ./images/throw_wall_army.jpg
+
+* Tear down the wall!
+.image ./images/tearing-down-a-wall.jpeg
+
+* Dev Ops
+
+- Cultural and professional movement. - Adam Jacobs
+
+- Collaboration of People
+
+- Covergence of Process
+
+- Creation & Exploitation of Tools
+
+* CAMS
+
+- Culture
+
+- Automation
+
+- Measurement
+
+- Sharing
+
+* Influences
+
+- Agile
+
+- Operations Management (OM)
+  
+  - Systems thinking & dynamics
+  
+  - Theory of constraints
+
+  - LEAN(TPS)
+
+- IT Service Management(ITSM) - ITIL
+
+
+* Tools
+.image ./images/DevOps-tools.jpg
+
+* tools contd
+.image ./images/devops-tools-too.jpg
+
+* tools contd. contd.
+.image ./images/rsz_1rsz_periodic-table-of-devops.jpg
+
+* more tools
+.image ./images/davechild_linux-command-line.600.jpg
+
+* tool?
+.image ./images/48127277.cms.jpeg
+
+* What is a "devops" tool
+
+
+- Aids the convergence of process
+
+
+- Helps in collaboration
+
+* Summary
+
+- It's about customers, flow.
+
+- Pride of workmanship.
+
+- If you're not having fun, you're doing it wrong.
+
+
+* Questions?
+.image ./images/questionsfry-panique-questions.jpg
+
